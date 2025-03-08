@@ -12,7 +12,7 @@ In this code-along, we're going to keep working with our Social Media
 application we made in the previous code-along. However, we want to make some
 updates!
 
-First of all, we don't want to have to include our `NavBar` component in every
+First of all, we don't want to have include our `NavBar` component in every
 page level component — that wasn't very DRY! We also included the same
 `ErrorPage` on every one of our components — we'll fix that too.
 
